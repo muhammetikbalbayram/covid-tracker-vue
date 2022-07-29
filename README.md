@@ -1,3 +1,5 @@
+https://covid-tracker-with-vue-and-tailwind.netlify.app/
+
 # covid-tracker
 
 ## Project setup
